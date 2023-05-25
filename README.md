@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Luis Gustavo Braga 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-gustavo-braga/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luisgustavobsilva@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatorafaballerini@gmail.com)
 
 ![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisBraga31&show_icons=true&theme=dracula&count_private=true)
 
