@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-gustavo-braga/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatorafaballerini@gmail.com)
 
-<div align="center">  
+<div align="left">  
 
   <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisBraga31&layout=compact&hide_border=true&title_color=00a000&text_color=c9d1d9&bg_color=0d1117" />
 </div>
