@@ -4,8 +4,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatorafaballerini@gmail.com)
 
 <div align="center">
-     <img width="49%" height="205px" src="https://github-readme-stats.vercel.app/api?username=LuisBraga31&show_icons=true&count_private=true&hide_border=false&title_color=00a000&icon_color=00a000&text_color=c9d1d9&bg_color=0d1117&rank_icon=github"/> 
-    <img width="41%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisBraga31&layout=compact&hide_border=false&title_color=00a000&text_color=c9d1d9&bg_color=0d1117" />
+     <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api?username=LuisBraga31&show_icons=true&count_private=true&hide_border=true&title_color=00a000&icon_color=00a000&text_color=c9d1d9&bg_color=0d1117&rank_icon=github"/> 
+    <img width="41%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisBraga31&layout=compact&hide_border=true&title_color=00a000&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ## Tecnologias que Utilizo
