@@ -9,7 +9,7 @@
 - 👋 Olá, eu sou Luis Gustavo Braga
 - :cheese: Mineiro
 - 💻 Bacharel em Sistemas de Informação
-- 🎮 Gosto de desenvolver Jogos
+- 🎮 Desenvolvedor de Jogos
 
 
 
