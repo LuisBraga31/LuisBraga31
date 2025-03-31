@@ -55,7 +55,4 @@ Acesse: https://top10game.app/
 
 ###
 
-<img src="https://raw.githubusercontent.com/LuisBraga31/LuisBraga31/output/snake.svg" alt="Snake animation" />
-
-###
 
